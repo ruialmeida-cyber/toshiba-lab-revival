@@ -122,9 +122,8 @@ This laptop now boots in under **30 seconds**, stays cool, and runs all essentia
 
 ## 🔗 Links
 
-- 🔧 **GitHub Repo:** _[Insert your repo link here]_  
-- 🧳 **Portfolio Entry:** _[Insert Notion/website/blog link]_  
-- 📣 **LinkedIn Post:** _[Insert post link here if published]_
+- 🧳 **Portfolio Entry:**  How I Revived a 15-Year-Old Toshiba Laptop with MX Linux for Cybersecurity Labs](https://ruialmeida-cyber.com/how-i-revived-a-15-year-old-toshiba-laptop-with-mx-linux-for-cybersecurity-labs/
+- 📣 **LinkedIn Post:**  https://www.linkedin.com/posts/ruialmeida-cyber_cybersecurity-mxlinux-blueteam-activity-7347022096981540864-O_L2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFvdseMBYkKj4DI_8A55Ky1yNnoXlRbp4DM
 
 ---
 
